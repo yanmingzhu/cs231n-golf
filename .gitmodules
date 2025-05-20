@@ -1,0 +1,3 @@
+[submodule "golfdb"]
+	path = golfdb
+	url = https://github.com/wmcnally/golfdb.git
