@@ -1,0 +1,13 @@
+data
+data.zip
+__pycache__/
+Augmentation/aug_data/
+Augmentation/videos/
+image_dump/images/
+models/
+.DS_Store
+test_results.txt
+mobilenet_v2.pth.tar
+*.pt
+
+
